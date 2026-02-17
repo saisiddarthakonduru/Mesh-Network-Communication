@@ -269,22 +269,3 @@ Battery-powered optimizations
 
 Role-based routing priority
 
-🤝 Contributing
-
-Pull requests welcome!
-
-If you improve routing, reliability, or performance:
-
-Fork
-
-Create feature branch
-
-Submit PR
-
-📜 License
-
-MIT License (Recommended — add a LICENSE file)
-
-👨‍💻 Author
-
-Developed for advanced ESP32 mesh networking experimentation.
